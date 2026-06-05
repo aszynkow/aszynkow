@@ -26,8 +26,8 @@ Every repo here has:
 - ✅ Real-world use cases, not toy examples
 
 Browse by topic:
-- 🤖 [`ai-*`](*ai*) — AI tooling and implementation patterns
-- ☁️ [`cloud-*`](*oci*, *vmware*,*scale*) — Multi-cloud architecture and IaC
+- 🤖 [`*ai-*`](*ai*) — AI tooling and implementation patterns
+- ☁️ [`*oci-*`](*oci*, *vmware*,*scale*) — Multi-cloud architecture and IaC
 
 ---
 
