@@ -28,7 +28,7 @@ Every repo here has:
 Browse by topic:
 - [🤖 AI repos](https://github.com/aszynkow?tab=repositories&q=ai)
 - [☁️ Cloud repos](https://github.com/aszynkow?tab=repositories&q=oci)
-- 🖥️ [`OCVS and VmWare`](https://github.com/aszynkow?tab=repositories&q=vmware)
+- [🖥️ OCVS and VmWare](https://github.com/aszynkow?tab=repositories&q=vmware)
   
 ---
 
