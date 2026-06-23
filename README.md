@@ -18,7 +18,7 @@ because good examples are worth more than good intentions.
 
 ---
 
-## 📦 60+ Public Repos — All With Working Code
+## 📦 30+ Public Repos — All With Working Code
 
 Every repo here has:
 - ✅ A proper README (build instructions, prerequisites, what it does)
